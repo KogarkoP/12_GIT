@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Roboto";
-  src: url("./Roboto/Roboto-VariableFont_wdth\,wght.ttf");
+  src: url("./fonts/Roboto/Roboto-VariableFont_wdth\,wght.ttf");
 }
 
 * {
@@ -17,7 +17,7 @@ header {
   align-items: center;
   gap: 2rem;
   height: 400px;
-  background-image: url("./background_image.jpg");
+  background-image: url("./pictures/background_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -91,7 +91,7 @@ hr {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url("./photo-1550510537-64a36484eae2.jpg");
+  background-image: url("./pictures/photo-1550510537-64a36484eae2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
